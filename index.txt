@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 123
+=======
+<<<<<<< HEAD
+sravanii     asd
+=======
+asd
+ghikinlghh
+hellooooooo
+jjiiiii
+>>>>>>> 1fe950389d8a456fbf5de8c226513faa15145516
+>>>>>>> 4900ef666f3e793106e3a714d53b4eafac4373af
